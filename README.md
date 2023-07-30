@@ -24,7 +24,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ### Screenshot
 
 ![](assets/images/screenshot1.png)
-![](assets/images/screenshot2.jpg)
+![](assets/images/Screenshot2.jpg)
 
 
 ### Links
