@@ -29,7 +29,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Live Site URL: [live url]((https://saina-s.github.io/results-summary-component/))
+- Live Site URL:(https://saina-s.github.io/results-summary-component/)
 
 ## My process
 
