@@ -53,8 +53,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Useful resources
 
-- [](https://unclebigbay.com/5-steps-to-live-preview-your-web-project-on-mobile-devices) - This helped me to preview my project on my phone.
-- [](https://www.w3schools.com/cssref/func_linear-gradient.php) - This helped me to make results background.
+- [resource](https://unclebigbay.com/5-steps-to-live-preview-your-web-project-on-mobile-devices) - This helped me to preview my project on my phone.
+- [resource](https://www.w3schools.com/cssref/func_linear-gradient.php) - This helped me to make results background.
 
 
 ## Author
